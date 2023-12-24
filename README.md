@@ -1,2 +1,2 @@
 # Proje5
- Küçük bir bina modeli
+Üretken Akademi 5.Hafta Projesi küçük bir bina modeli
